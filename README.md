@@ -3,7 +3,7 @@
 If you're here I'm assuming that it's not for social media purposes LOL so check out any of the cool things I've worked on! Currently @ampe-co and tryna learn as much as I can: 
 - 💻 &nbsp; Currently working on: React Native, GraphQL, TypeScript, Nexus + Prisma
 - 🔨 &nbsp; Past tools: React/Redux, GatsbyJS, *biG dAta™* (Spark, Keras/mxnet, etc.), Python🐍 , Java☕️ 
-- 🌱 &nbsp; Trying to learn: Next.js, Swift/Kotlin, being good at CSS l m a o
+- 📚 &nbsp; Trying to learn: Next.js, Swift/Kotlin, being good at CSS l m a o
 
 <!--
 **orangejuicetin/orangejuicetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
