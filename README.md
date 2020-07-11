@@ -5,7 +5,7 @@ If you're here I'm assuming that it's not for social media purposes LOL so check
 - 🔨 &nbsp; Past tools: React/Redux, GatsbyJS, *biG dAta™* (Spark, Keras/mxnet, etc.), Python🐍 , Java☕️ 
 - 🌱 &nbsp; Trying to learn: Next.js, Swift/Kotlin, being good at CSS l m a o
 
-If you wanna stalk me, I have a LinkedIn too for those purposes hoho: [juicetinchoi](https://www.linkedin.com/in/juicetinchoi/)
+If you wanna stalk me, I have a LinkedIn for those purposes too hoho: [juicetinchoi](https://www.linkedin.com/in/juicetinchoi/)
 <!--
 **orangejuicetin/orangejuicetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
