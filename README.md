@@ -1,9 +1,9 @@
 ## Hello ~
 
 If you're here I'm assuming that it's not for social media purposes LOL so check out any of the cool things I've worked on! Currently @ampe-co and tryna learn as much as I can so far: 
-- 💻 &nbsp; Currently working on: React Native, GraphQL, TypeScript
+- 💻 &nbsp; Currently working on: React Native, GraphQL, TypeScript, Nexus + Prisma
 - 🔨 &nbsp; Past tools: React/Redux, Gatsby.js, *biG dAta™*, Java☕️ , Python🐍
-- 🌱 &nbsp; Trying to learn: Next.js, CSS (i.e. the dark arts)
+- 🌱 &nbsp; Trying to learn: Next.js, being good at CSS (i.e. the dark arts) rip
 
 
 <!--
