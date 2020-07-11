@@ -3,7 +3,7 @@
 If you're here I'm assuming that it's not for social media purposes LOL so check out any of the cool things I've worked on! Currently @ampe-co and tryna learn as much as I can: 
 - 💻 &nbsp; Currently working on: React Native, GraphQL, TypeScript, Nexus + Prisma
 - 🔨 &nbsp; Past tools: React/Redux, GatsbyJS, *biG dAta™* (Spark, Keras/mxnet, etc.), Python🐍 , Java☕️ 
-- 🌱 &nbsp; Trying to learn: Next.js, being good at CSS l m a o
+- 🌱 &nbsp; Trying to learn: Next.js, Swift/Kotlin, being good at CSS l m a o
 
 If you wanna stalk me, I have a LinkedIn too for those purposes hoho: [juicetinchoi](https://www.linkedin.com/in/juicetinchoi/)
 <!--
