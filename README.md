@@ -1,6 +1,6 @@
 ## Hello ~
 
-If you're here I'm assuming that it's not for social media purposes LOL so check out any of the cool things I've worked on! Currently @ampe-co and tryna learn as much as I can: 
+If you're here I'm assuming that it's not for social media purposes LOL so check out any of the cool things I've worked on! Jryna learn as much as I can: 
 - 💻 &nbsp; *Currently working on:* looooots of C code ;_;
 - 🔨 &nbsp; *Past tools:* TypeScript, GraphQL, React, GatsbyJS, **biG** dAta™ + ML(PyTorch, Spark, Keras/mxnet, etc.), Python, Java
 - 📚 &nbsp; *Trying to learn:* Go, Rust, Next.js, Swift/Kotlin, being adequate at CSS l m a o
