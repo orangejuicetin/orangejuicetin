@@ -1,6 +1,6 @@
 # Hi there! I'm Justin 🍊
 
-But you can also call me orangejuicetin :)) 
+Or you can call me juicetin :)) (if you're ever curious about how i got this name just ask me)
 
 Read my musings and reflections [here](https://juicetin.bearblog.dev) on bearblog.dev
 
