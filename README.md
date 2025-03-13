@@ -2,6 +2,6 @@
 
 For my musings and reflections: read them [over here](https://juicetin.bearblog.dev)
 
-Currently: at [Fastly](https://fastly.com)! on the edge delivery team and loving it
+Currently: at [Fastly](https://fastly.com) working on kernel/host-networking
 
-writing mostly C, sometimes Rust, always running `make`
+pushing packets as fast as possible zoom zoom
